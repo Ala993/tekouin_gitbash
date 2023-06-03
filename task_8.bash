@@ -1,0 +1,1 @@
+echo file -b "/tmp/tekouin"
